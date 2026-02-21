@@ -3,6 +3,7 @@ Privacy Policy
 WA DirectChat does not collect, store, or share any personal information.
 
 We do not store:
+
 • Phone numbers
 • Messages
 • Chat history
