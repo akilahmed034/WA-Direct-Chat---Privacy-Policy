@@ -1,14 +1,14 @@
 Privacy Policy
 
-## DirectChat Bulk Send Marketing
+## Bulk Sender Marketing Tool
 
-This Privacy Policy explains how DirectChat Bulk Send Marketing handles user data.
+This Privacy Policy explains how Bulk Sender Marketing Tool handles user data.
 
 ━━━━━━━━━━━━━━━━━━━━━━
 🔒 DATA COLLECTION
 ━━━━━━━━━━━━━━━━━━━━━━
 
-DirectChat Bulk Send Marketing does **not collect, store, or share any personal data**.
+DirectChat Bulk Sender Marketing does **not collect, store, or share any personal data**.
 
 We do not require any user registration or login to use the app.
 
@@ -59,13 +59,13 @@ Users can enable or disable Accessibility Service anytime in device settings.
 
 This app does not send data to any external servers.
 
-It may open third-party messaging applications (such as WhatsApp or WhatsApp Business) depending on user selection. These apps are governed by their own privacy policies.
+It may open third-party messaging applications depending on user selection. These apps are governed by their own privacy policies.
 
 ━━━━━━━━━━━━━━━━━━━━━━
 📌 DISCLAIMER
 ━━━━━━━━━━━━━━━━━━━━━━
 
-DirectChat Bulk Send Marketing is an independent tool and is not affiliated with, endorsed by, or associated with WhatsApp LLC or any other messaging platform.
+Bulk Sender Marketing is an independent tool and is not affiliated with, endorsed by, or associated with any other messaging platform.
 
 All trademarks belong to their respective owners.
 
